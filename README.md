@@ -75,7 +75,7 @@ The notebook performs the following tasks:
 
 ## Author
 
-[Your Name]
+Almando Hafenaaje (The Master mind)
 
 ## License
 
